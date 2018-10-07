@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/danielcsrs/bot-sendsms#readme",
   "dependencies": {
-    "aws": "0.0.3-2",
+    "aws-sdk": "^2.329.0",
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
     "dotenv": "^6.0.0",
