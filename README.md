@@ -10,7 +10,7 @@ Para executar o script clone o repositorio, instale as dependêcias, crie uma co
 
 ```shell
 $ git clone https://github.com/danielcsrs/bot-sendsms
-$ cd bot-webscraper; npm install
+$ cd bot-sendsms; npm install
 $ npm start
 ```
 
